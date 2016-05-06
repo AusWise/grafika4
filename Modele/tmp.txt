@@ -1,0 +1,21 @@
+pliki BRP:
+
+czesci:
+R G B kd ks g
+
+swiatlo:
+x y z R G B
+
+
+
+
+pliki CAM:
+
+obserwator:
+x y z
+
+punkt obserwowany:
+x y z
+
+kat rozwarcia piramidki:
+a (w stopniach)
